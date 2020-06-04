@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<training_parameters>
+	<bands>1,2,3,4,5</bands>
+	<ndvi>False</ndvi>
+	<padding>0</padding>
+	<max_values>11813.0,14438.0,14576.0,15872.0,15974.0</max_values>
+	<exclusion>none</exclusion>
+	<filters>64</filters>
+	<dropout>0.5</dropout>
+	<batch_size>128</batch_size>
+	<loss>jaccard</loss>
+</training_parameters>
